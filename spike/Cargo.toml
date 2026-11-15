@@ -1,0 +1,7 @@
+[package]
+name = "clipdeck-spike"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+wl-clipboard-rs = "0.9.5"

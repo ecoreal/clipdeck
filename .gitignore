@@ -25,4 +25,6 @@ dist-ssr
 
 # workspace 级 cargo 构建产物
 /target
+# spike 独立 cargo 项目构建产物
+/spike/target
 *.tsbuildinfo
